@@ -1,1 +1,1 @@
-# Data-Analysis-of-hotel-cancellation
+# Data-Analysis-of-hotel-booking-cancellation
